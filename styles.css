@@ -4,11 +4,11 @@
     cell-spacing:1px;
 	spacing:1px;
 }
-#t12
+.center
 {
  text-align:center;
 }
-#t13
+.right
 {
 	text-align:right;
 }
