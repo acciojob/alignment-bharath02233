@@ -1,1 +1,14 @@
-/*  your css code here. If applicable */
+.middle,td
+{
+	border:1px solid black;
+    cell-spacing:1px;
+	spacing:1px;
+}
+#c2
+{
+ text-align:center;
+}
+#c3
+{
+	text-align:right;
+}
