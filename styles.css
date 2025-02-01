@@ -1,6 +1,7 @@
 .middle,td
 {
 	border:1px solid black;
-    cell-spacing:1px;
+    
 	spacing:1px;
+	padding:1px;
 }
